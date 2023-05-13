@@ -6,7 +6,7 @@
    style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
    version="1.1"
    id="svg25"
-   sodipodi:docname="logo-headerPRO.svg"
+   sodipodi:docname="logo-header.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,8 +22,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="0.859"
-     inkscape:cx="300.93132"
-     inkscape:cy="303.84168"
+     inkscape:cx="298.02095"
+     inkscape:cy="296.85681"
      inkscape:window-width="1901"
      inkscape:window-height="876"
      inkscape:window-x="9"
@@ -34,7 +34,7 @@
      style="opacity:1;fill:#e5e5e5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:.14294769px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
      id="path2" /><g
      id="g1007"
-     transform="matrix(0.40504572,0,0,0.40504572,230.70942,65.261537)"><g
+     transform="matrix(0.40504572,0,0,0.40504572,236.70942,65.261537)"><g
        id="g182"
        transform="matrix(8.6944389,0,0,-8.6944389,652.7631,-22.703368)"
        inkscape:export-xdpi="434.30066"
@@ -109,16 +109,18 @@
        d="M412.8 154.2h247V204h-247z" /></defs><text
      xml:space="preserve"
      id="text4565"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4567);fill:#4e76ec;fill-opacity:1;stroke:none"
-     transform="translate(0,42)"><tspan
-       x="387.68359"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4567);fill:#4e76ec;fill-opacity:1;stroke:none;text-align:center"
+     transform="translate(0,42)"
+     x="107.20703"
+     y="0"><tspan
+       x="394.16504"
        y="176.99712"
-       id="tspan36806"><tspan
+       id="tspan13002"><tspan
          style="font-weight:bold;line-height:1.25;font-family:Verdana;-inkscape-font-specification:'Verdana Bold'"
-         id="tspan36804">PRODESK
+         id="tspan13000">PRODESK
 </tspan></tspan><tspan
-       x="387.68359"
-       y="207.5341"
-       id="tspan36810"><tspan
+       x="409.27035"
+       y="201.89891"
+       id="tspan13006"><tspan
          style="font-size:18.6667px"
-         id="tspan36808">Your remote desktop</tspan></tspan></text></svg>
+         id="tspan13004">Your remote desktop</tspan></tspan></text></svg>
