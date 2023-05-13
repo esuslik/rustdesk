@@ -1,1 +1,110 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="26" height="26" style="isolation:isolate" viewBox="66.993 897.484 26 26"><defs><linearGradient xlink:href="#a" id="b" x1=".148" x2=".845" y1=".851" y2=".154" gradientTransform="matrix(26.00048 0 0 25.99935 66.993 897.485)" gradientUnits="userSpaceOnUse"/></defs><linearGradient id="a" x1=".148" x2=".845" y1=".851" y2=".154" gradientTransform="matrix(26.301 0 0 26.331 90.674 911.757)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#004ba6" style="stop-color:#0071ff;stop-opacity:1"/><stop offset="1" stop-color="#00bfe1" style="stop-color:#00bfe1;stop-opacity:1"/></linearGradient><path fill="url(#a)" d="m89.318 903.552-2.135 2.122c-.376.337-.558.879-.347 1.337 1.422 2.976.882 6.524-1.452 8.856-2.335 2.331-5.887 2.87-8.866 1.449-.439-.197-.954-.03-1.292.312l-2.17 2.167a1.154 1.154 0 0 0 .208 1.81 13.005 13.005 0 0 0 15.91-1.912 12.97 12.97 0 0 0 1.956-15.887 1.154 1.154 0 0 0-1.812-.254zm-18.467-2.305a12.969 12.969 0 0 0-2.02 15.885 1.154 1.154 0 0 0 1.812.254l2.124-2.11c.385-.336.572-.884.359-1.348-1.423-2.976-.884-6.524 1.451-8.856 2.334-2.332 5.887-2.871 8.866-1.45.434.194.942.033 1.281-.3l2.182-2.18a1.152 1.152 0 0 0-.208-1.81 13.009 13.009 0 0 0-15.893 1.973z" style="fill:url(#b);stroke-width:.987988"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="76mm"
+   height="80mm"
+   viewBox="0 0 76 80"
+   version="1.1"
+   id="svg3913"
+   inkscape:export-filename="/data/CloudSafe/Business/Improve/PR/Стиль/icons/log2x.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3907" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="38.890873"
+     inkscape:cy="325.97623"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="983"
+     inkscape:window-x="0"
+     inkscape:window-y="56"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata3910">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-217)">
+    <g
+       id="g182"
+       transform="matrix(2.3004036,0,0,-2.3004036,44.450139,220.84718)"
+       inkscape:export-xdpi="434.30066"
+       inkscape:export-ydpi="434.30066"
+       style="fill:#3ce01f;fill-opacity:1"
+       inkscape:export-filename="/data/CloudSafe/Business/Improve/Стиль/rustdesk/icon1024.png">
+      <path
+         d="m 0,0 c 1.514,0 2.762,-1.248 2.762,-2.761 0,-1.512 -1.248,-2.762 -2.762,-2.762 -1.512,0 -2.762,1.25 -2.762,2.762 C -2.762,-1.248 -1.512,0 0,0"
+         style="fill:#3ce01f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path184"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       style="fill:#3ce01f;fill-opacity:1;stroke-width:0.505076"
+       d="m 164.71144,62.030172 c -7.43832,-0.841273 -14.67185,-6.127018 -17.994,-13.148723 -4.49044,-9.490999 -2.76189,-19.675826 4.58843,-27.035629 9.28937,-9.30135 23.51468,-9.431223 33.08565,-0.302064 9.33563,8.904683 9.85914,23.293456 1.19798,32.926752 -5.26869,5.860044 -12.56064,8.500363 -20.87806,7.559664 z"
+       id="path11522"
+       transform="matrix(0.26458333,0,0,0.26458333,0,217)"
+       inkscape:export-filename="/data/CloudSafe/Business/Improve/Стиль/rustdesk/icon1024.png"
+       inkscape:export-xdpi="434.30066"
+       inkscape:export-ydpi="434.30066" />
+    <path
+       style="fill:#4e76ec;fill-opacity:1;stroke-width:0.133635"
+       d="m 9.21027,268.50365 c -1.9680551,-0.22259 -3.8819271,-1.62111 -4.7609121,-3.47893 -1.188096,-2.51116 -0.730751,-5.2059 1.214022,-7.15318 2.457812,-2.46098 6.2215921,-2.49534 8.7539111,-0.0799 2.470052,2.35603 2.608564,6.16306 0.316966,8.71187 -1.394008,1.55047 -3.323336,2.24905 -5.523987,2.00016 z"
+       id="path11522-3"
+       inkscape:export-filename="/data/CloudSafe/Business/Improve/Стиль/rustdesk/icon1024.png"
+       inkscape:export-xdpi="434.30066"
+       inkscape:export-ydpi="434.30066" />
+    <g
+       id="g38006"
+       style="fill:#4e76ec;fill-opacity:1"
+       inkscape:export-filename="/data/CloudSafe/Business/Improve/Стиль/rustdesk/icon1024.png"
+       inkscape:export-xdpi="434.30066"
+       inkscape:export-ydpi="434.30066">
+      <rect
+         style="fill:#4e76ec;fill-opacity:1;stroke-width:0.271669"
+         id="rect36755"
+         width="37.781311"
+         height="12.699001"
+         x="25.930054"
+         y="255.87579" />
+      <rect
+         style="fill:#4e76ec;fill-opacity:1;stroke-width:0.271669"
+         id="rect36755-5"
+         width="37.781311"
+         height="12.699001"
+         x="243.12117"
+         y="-50.84547"
+         transform="rotate(90.00972)" />
+    </g>
+  </g>
+</svg>
